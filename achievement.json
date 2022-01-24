@@ -3,22 +3,22 @@
         {
             "author" : "S. Takahira, A. Ohashi, T. Sogabe, and T.S. Usuda" ,
             "title" : "Quantum algorithm for matrix functions by Cauchy's integral formula",
-            "info" : "Quantum Information and Computation, vol.20, no.1&2, pp.14-36, (2020.2).", 
+            "info" : "Quantum Information and Computation, vol.20, no.1&2, pp.14-36, (2020.2).",
             "doi" : "10.26421/QIC20.1-2"
         },
-    
+
         {
-            "author" : "S. Takahira, T. Sogabe, and T.S. Usuda", 
-            "title" : "Bidiagonalization of (k, k+1)-tridiagonal matrices", 
-            "info" : "Special Matrices, vol.7, no.1, pp.20-26, (2019.1).", 
+            "author" : "S. Takahira, T. Sogabe, and T.S. Usuda",
+            "title" : "Bidiagonalization of (k, k+1)-tridiagonal matrices",
+            "info" : "Special Matrices, vol.7, no.1, pp.20-26, (2019.1).",
             "doi" : "10.1515/spma-2019-0002"
-        } 
+        }
     ],
     "journal-sub" : [
         {
-            "author" : "田中美波, 大橋あすか, 高比良宗一, 臼田毅", 
-            "title" :  "符号化を用いた3元ASKコヒーレント状態信号の対称化", 
-            "info" : "電子情報通信学会論文誌 (B), vol.J101-B, no.11, pp.978-987, (2018.11).", 
+            "author" : "田中美波, 大橋あすか, 高比良宗一, 臼田毅",
+            "title" :  "符号化を用いた3元ASKコヒーレント状態信号の対称化",
+            "info" : "電子情報通信学会論文誌 (B), vol.J101-B, no.11, pp.978-987, (2018.11).",
             "doi" : "doi: 10.14923/transcomj.2017JBP3065"
         }
     ],
@@ -26,15 +26,15 @@
     "proceeding_oral" : [
         {
             "author" : "S. Takahira and T.S. Usuda",
-            "title" : "Applying a symmetrization method by coding to non-symmetric mixed-state signals", 
+            "title" : "Applying a symmetrization method by coding to non-symmetric mixed-state signals",
             "info" : "2018 International Symposium on Information Theory and Its Applications (ISITA2018), Singapore, Proceedings of ISITA2018, pp.472-475, (2018.10)."
         },
         {
-            "author" : " S. Takahira, A. Ohashi, T. Sogabe, and T.S. Usuda", 
-            "title" : "Quantum algorithm for matrix functions by Cauchy's integral formula", 
+            "author" : " S. Takahira, A. Ohashi, T. Sogabe, and T.S. Usuda",
+            "title" : "Quantum algorithm for matrix functions by Cauchy's integral formula",
             "info" : " 18th Asian Quantum Information Science Conference (AQIS2018), Nagoya, Extended Abstracts of AQIS2018, 213, (2018.9). "
         }
-    ], 
+    ],
 
     "proceeding_poster" : [
         {
@@ -51,54 +51,54 @@
             "author" : "S. Takahira, A. Ohashi, T. Sogabe, and T.S. Usuda",
             "title" : "Quantum-classical hybrid algorithm to solve linear equations for k-tridiagonal matrix",
             "info" : "15th Asian Quantum Information Science Conference (AQIS2015), Seoul, Korea, Proceedings of AQIS2015, pp.181-182, (2015.8)."
-        }           
+        }
     ],
 
     "学会・研究会" : [
         {
-            "author" : "高比良宗一，大橋あすか，曽我部知広，臼田毅", 
-            "title" : "コーシーの積分公式による行列関数に対する量子アルゴリズム", 
+            "author" : "高比良宗一，大橋あすか，曽我部知広，臼田毅",
+            "title" : "コーシーの積分公式による行列関数に対する量子アルゴリズム",
             "info" : "電子情報通信学会第40回量子情報技術研究会(QIT40)，福岡県春日市，QIT2019-37，pp.139-142，(2019). "
         },
         {
-            "author" : "高比良宗一，大橋あすか，曽我部知広，臼田毅", 
-            "title" : "巡回行列を係数とする線形方程式に対する量子アルゴリズムの性能解析", 
+            "author" : "高比良宗一，大橋あすか，曽我部知広，臼田毅",
+            "title" : "巡回行列を係数とする線形方程式に対する量子アルゴリズムの性能解析",
             "info" : "第39回情報理論とその応用シンポジウム(SITA2016)，岐阜県高山市，pp.109-114，(2016). "
         },
         {
-            "author" : "高比良宗一，佐々木大地，曽我部知広，臼田毅", 
-            "title" : "線形方程式を量子計算を使って解く場合に現れる問題点とその解決策", 
+            "author" : "高比良宗一，佐々木大地，曽我部知広，臼田毅",
+            "title" : "線形方程式を量子計算を使って解く場合に現れる問題点とその解決策",
             "info" : "第37 回情報理論とその応用シンポジウム(SITA2014)，富山県黒部市，pp.679-683，(2014). "
-        }, 
+        },
         {
-            "author" : "高比良宗一，佐々木大地，曽我部知広，臼田毅", 
-            "title" : "量子-古典ハイブリッド計算による線形方程式の解法", 
-            "info" : "平成26 年度電気・電子・情報関係学会東海支部連合大会，愛知県名古屋市，M5-3，(2014). "            
+            "author" : "高比良宗一，佐々木大地，曽我部知広，臼田毅",
+            "title" : "量子-古典ハイブリッド計算による線形方程式の解法",
+            "info" : "平成26 年度電気・電子・情報関係学会東海支部連合大会，愛知県名古屋市，M5-3，(2014). "
         }
-        
-    ], 
+
+    ],
 
     "Award" : [
         {
             "title" : "電子情報通信学会東海支部，平成27年度学生研究奨励賞",
             "info" : "2016"
         }
-    ], 
+    ],
 
     "Other1" : [
         {
-            "author" : "K. Sato, S. Takahira, K. Nakahira, T.S. Usuda", 
-            "title" : "Relation of 'α-order Renyi' subentropy and mutual information", 
+            "author" : "K. Sato, S. Takahira, K. Nakahira, T.S. Usuda",
+            "title" : "Relation of 'α-order Renyi' subentropy and mutual information",
             "info" : "19th Asian Quantum Information Science Conference (AQIS2019), Seoul, Korea, (2019)."
         },
         {
             "author" : "N. Matsumoto, S. Takahira, and T.S. Usuda",
 			"title"	: "Relation between quantumness and the approximation accuracy of the minimum error probability",
-            "info" : "18th Asian Quantum Information Science Conference (AQIS2018), Nagoya, Extended Abstracts of AQIS2018, 202, (2018.9)." 
+            "info" : "18th Asian Quantum Information Science Conference (AQIS2018), Nagoya, Extended Abstracts of AQIS2018, 202, (2018.9)."
         },
         {
             "author" : "K. Sato, S. Takahira, K. Nakahira, and T.S. Usuda",
-            "title" : "Maximizing α-order Mutual Renyi Information for group covariant SIC Ensemble", 
+            "title" : "Maximizing α-order Mutual Renyi Information for group covariant SIC Ensemble",
             "info" : "18th Asian Quantum Information Science Conference (AQIS2018), Nagoya, Extended Abstracts of AQIS2018, 72, (2018.9)."
         },
         {
@@ -109,39 +109,39 @@
         {
             "author" : "N. Matsumoto, A. Kadoya, S. Takahira, Y. Nishino, and T.S. Usuda",
             "title" : "Origin of the gap between the minimum error probability and its simple approximation",
-            "info" : "17th Asian Quantum Information Science Conference (AQIS2017), Singapore, Proceedings of AQIS2017, pp.264-266, (2017.9)."          
+            "info" : "17th Asian Quantum Information Science Conference (AQIS2017), Singapore, Proceedings of AQIS2017, pp.264-266, (2017.9)."
         },
         {
-            "author" : "Y. Nishino, S. Takahira, and T.S. Usuda",  
+            "author" : "Y. Nishino, S. Takahira, and T.S. Usuda",
             "title" : "Annealing schedule for classical optimal decoding using adiabatic quantum computation",
-            "info" : "17th Asian Quantum Information Science Conference (AQIS2017), Singapore, Proceedings of AQIS2017, pp.202-204, (2017.9)." 
+            "info" : "17th Asian Quantum Information Science Conference (AQIS2017), Singapore, Proceedings of AQIS2017, pp.202-204, (2017.9)."
         },
         {
             "author" : "Y. Nishino, S. Takahira, A. Kadoya, and T.S. Usuda",
             "title" : "Application of adiabatic quantum computation to classical optimal decoding",
             "info" : "2016 International Symposium on Information Theory and Its Applications (ISITA2016), Monterey, California, USA, Proceedings of ISITA2016, p.563, (2016.10-11)."
-        }, 
+        },
         {
             "author" : "Y. Nishino, S. Takahira, A. Kadoya, A. Ohashi, and T.S. Usuda",
 			"title" : "Reduction of computation complexity of classical optimal decoding by adiabatic quantum computation",
-			"info" : "16th Asian Quantum Information Science Conference (AQIS2016), Taipei, Taiwan, Extended Abstracts of AQIS2016, pp.102-103, (2016.8)." 
-        }			
-    ], 
+			"info" : "16th Asian Quantum Information Science Conference (AQIS2016), Taipei, Taiwan, Extended Abstracts of AQIS2016, pp.102-103, (2016.8)."
+        }
+    ],
 
     "Other2" : [
         {
             "author" : "佐藤圭介, 高比良宗一, 中平健治, 臼田毅",
-            "title" : "群共変的量子情報源のアクセシブルレニー情報量の上界", 
+            "title" : "群共変的量子情報源のアクセシブルレニー情報量の上界",
             "info" : "第42回情報理論とその応用シンポジウム, 霧島, (2019.11.27)."
         },
         {
             "author": "矢田壮平, 佐藤圭介, 高比良宗一, 宇佐見庄五, 臼田毅",
-            "title" : "非対称量子信号を対称化する符号化の新たなクラス", 
+            "title" : "非対称量子信号を対称化する符号化の新たなクラス",
             "info"  : "第42回情報理論とその応用シンポジウム, 霧島, (2019.11.27)."
         },
         {
-            "author" : "佐藤圭介, 高比良宗一, 中平健治, 臼田毅", 
-            "title" : "量子情報理論における相互レニー情報量と量子レニーエントロピー", 
+            "author" : "佐藤圭介, 高比良宗一, 中平健治, 臼田毅",
+            "title" : "量子情報理論における相互レニー情報量と量子レニーエントロピー",
             "info" : "第17回情報学ワークショップ(WiNF2019)"
         },
         {
@@ -159,80 +159,85 @@
         },
         {
             "author" : "佐藤圭介, 高比良宗一, 中平健治, 臼田毅",
-            "title" : "群共変的量子情報源に対するα次の相互レニー情報量の最大化", 
+            "title" : "群共変的量子情報源に対するα次の相互レニー情報量の最大化",
             "info" : "第16回情報学ワークショップ (WiNF2018), 名古屋大学, P217, (2018.11.10)."
-        }, 
+        },
         {
             "author" : "松本直也, 高比良宗一, 臼田毅",
-            "title" : "量子情報理論における最小誤り率近似式の精度を決める2つの要因", 
+            "title" : "量子情報理論における最小誤り率近似式の精度を決める2つの要因",
             "info" : "第15回情報学ワークショップ (WiNF2017), 中部大学, PC-34, (2017.11.26)."
         },
         {
             "author" : "佐藤圭介, 高比良宗一, 臼田毅",
-            "title" : "群共変的信号に対する2次の相互レニー情報量の最大化について", 
+            "title" : "群共変的信号に対する2次の相互レニー情報量の最大化について",
             "info" : "第40回情報理論とその応用シンポジウム, 新発田, pp.347-352,(2017.11.30)."
         },
         {
             "author" : "中澤彩希, 田中美波, 高比良宗一, 臼田毅",
-            "title" : "任意の非対称純粋状態信号に対する符号化による対称化手法とその例", 
+            "title" : "任意の非対称純粋状態信号に対する符号化による対称化手法とその例",
             "info" : "第40回情報理論とその応用シンポジウム, 新発田, pp.408-413, (2017.11.30)."
         },
         {
             "author" : "加藤秀幸, 西野祐太, 高比良宗一, 角谷昭仁, 臼田毅",
-            "title" : "量子準最適受信機はなぜ準最適か?", 
+            "title" : "量子準最適受信機はなぜ準最適か?",
             "info" : "第14回情報学ワークショップ (WiNF2016), 愛知県立大学, C-03, (2016.11.27)."
         },
         {
             "author" : "西野祐太, 高比良宗一, 大橋あすか, 臼田毅",
-            "title" : "量子断熱計算による線形方程式の解法の考察", 
+            "title" : "量子断熱計算による線形方程式の解法の考察",
             "info" : "第38回情報理論とその応用シンポジウム, 岡山, pp.529-533, (2015.11)."
         }
-    ], 
-    "Other2" : [        
+    ],
+    "Other2" : [
         {
-            "author" : "西野祐太, 高比良宗一, 大橋あすか, 臼田毅", 
-            "title" : "量子断熱計算の線形方程式の解法への適用", 
+            "author" : "西野祐太, 高比良宗一, 大橋あすか, 臼田毅",
+            "title" : "量子断熱計算の線形方程式の解法への適用",
             "info" : "平成27年度電気・電子・情報関係学会東海支部連合大会, 名古屋工業大学, A5-4, (2015.9)."
         },
         {
-            "author" : "加藤秀幸, 西野祐太, 高比良宗一, 角谷昭仁, 臼田毅", 
-            "title" : "非破壊的量子受信機の受信プロセスにおける情報量の減少", 
+            "author" : "加藤秀幸, 西野祐太, 高比良宗一, 角谷昭仁, 臼田毅",
+            "title" : "非破壊的量子受信機の受信プロセスにおける情報量の減少",
             "info" : "平成28年度電気・電子・情報関係学会東海支部連合大会, 豊田工業高等専門学校, (2016.9.13)."
         },
         {
-            "author" : "石川恵大, 西野祐太, 高比良宗一, 王天澄, 臼田毅", 
-            "title" : "擬似ベル状態を用いた量子リーディングに対する片側減衰の影響", 
+            "author" : "石川恵大, 西野祐太, 高比良宗一, 王天澄, 臼田毅",
+            "title" : "擬似ベル状態を用いた量子リーディングに対する片側減衰の影響",
             "info" : "平成29年度電気・電子・情報関係学会東海支部連合大会, 名古屋大学, (2017.9.8)."
         },
         {
-            "author" : "佐藤圭介, 高比良宗一, 臼田毅", 
-            "title" : "相互レニー情報量規準で最も“ケチな”4元量子情報源", 
+            "author" : "佐藤圭介, 高比良宗一, 臼田毅",
+            "title" : "相互レニー情報量規準で最も“ケチな”4元量子情報源",
             "info" : "平成29年度電気・電子・情報関係学会東海支部連合大会, 名古屋大学, (2017.9.7-8)."
         },
         {
-            "author" : "淺野智哉, 西野祐太, 高比良宗一, 臼田毅, 内匠逸", 
-            "title" : "2-EDPで用いる複数の量子誤り訂正符号の共通作用素からの構成", 
+            "author" : "淺野智哉, 西野祐太, 高比良宗一, 臼田毅, 内匠逸",
+            "title" : "2-EDPで用いる複数の量子誤り訂正符号の共通作用素からの構成",
             "info" : "平成29年度電気・電子・情報関係学会東海支部連合大会, 名古屋大学, (2017.9.7-8)."
         },
         {
-            "author" : "山田俊宏, 高比良宗一, 臼田毅", 
-            "title" : "量子断熱計算を用いた巡回的なハミルトニアンの最小固有値の導出について", 
+            "author" : "山田俊宏, 高比良宗一, 臼田毅",
+            "title" : "量子断熱計算を用いた巡回的なハミルトニアンの最小固有値の導出について",
             "info" : "平成30年度電気・電子・情報関係学会東海支部連合大会, 名城大学, M1-3, (2018.9.3-4)."
         },
         {
-            "author" : "八木下賢悟, 高比良宗一, 宇佐見庄五, 臼田毅", 
-            "title" : "古典最適復号に適したハミルトニアンの固有値の変動", 
+            "author" : "八木下賢悟, 高比良宗一, 宇佐見庄五, 臼田毅",
+            "title" : "古典最適復号に適したハミルトニアンの固有値の変動",
             "info" : "平成30年度電気・電子・情報関係学会東海支部連合大会, 名城大学, J3-4, (2018.9.3-4)."
         },
         {
-            "author" : "矢田壮平，佐藤圭介，高比良宗一，宇佐見庄五，臼田毅", 
-            "title" : "非対称量子信号を対称化する符号の新たな例", 
+            "author" : "矢田壮平，佐藤圭介，高比良宗一，宇佐見庄五，臼田毅",
+            "title" : "非対称量子信号を対称化する符号の新たな例",
             "info" : "令和元年度電気・電子・情報関係学会東海支部連合大会, (2019.9.10)."
         },
         {
             "author" : "飯田拓磨，高比良宗一，臼田毅",
-            "title" : "QISKitによる行列関数に対する量子アルゴリズムの実装に向けたツールについて", 
+            "title" : "QISKitによる行列関数に対する量子アルゴリズムの実装に向けたツールについて",
             "info" : "令和元年度電気・電子・情報関係学会東海支部連合大会, (2019.9.10)."
+        },
+        {
+            "author": "武田伊織, 髙比良宗一, 御手洗光祐, 藤井啓祐",
+            "title": "量子特異値分解の脱量子化によるエクストリーム機械学習の高速化",
+            "info": "電子情報通信学会第44回量子情報技術研究会(QIT44)，オンライン開催, QIT2021-10, (2021). "
         }
     ]
 
